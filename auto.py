@@ -26,3 +26,4 @@ print(my_new_car.get_descriptive_name()) # 자동차 정보 출력
 
 my_new_car.update_odometer(23) # 주행거리 억데이트
 my_new_car.read_odometer() # 주행거리 출력
+print("단어")
